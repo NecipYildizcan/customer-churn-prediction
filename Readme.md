@@ -19,7 +19,7 @@ Predict whether a customer will churn using ML models and visualize insights wit
 ```bash
 pip install -r requirements.txt
 streamlit run app/streamlit_app.py
-
+```
 
 
 ## View the app in browser
