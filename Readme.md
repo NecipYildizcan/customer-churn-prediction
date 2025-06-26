@@ -22,6 +22,9 @@ streamlit run app/streamlit_app.py
 ```
 
 
-## View the app in browser
+## 🌐 View the app in browser
 
 https://customer-churn-prediction-n.streamlit.app/
+
+
+### Updates coming soon....
