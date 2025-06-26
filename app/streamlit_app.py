@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 # Load model
-model = joblib.load(r".\models\model.joblib")
+model = joblib.load("../customer-churn-prediction/models/model.joblib")
 
 st.title("Customer Churn Prediction")
 
